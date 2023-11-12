@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abed Al Ghani Shaaban</h1>
 <h3 align="center">A passionate developer and creator from Lebanon</h3>
 
+<div align="center" >
+  <img src="./fortnite-loading-screen.webp" alt="fortnite loading screen" height="500" />
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
