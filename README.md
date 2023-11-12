@@ -10,6 +10,16 @@
 </div>
 
 
+# 👨‍💼 About me
+
+Highly motivated software developer, who started coding at the age of 16, skilled in front-end and back-end code. Established success record with an amazing project ([apeolr.com](https://www.apeolr.com)) that is used among students in Lebanese High Schools. Self-learner, motivated and consistent developer.
+
+* 🌍  I'm based in Lebanon 
+* 🧠  I'm love creating tools and platforms 
+* 🤝  I'm open to contribute to projects 
+* 🔗  You can contact me on [in/abedshaaban](https://www.linkedin.com/in/abedshaaban) 
+
+
 # 🎯 Skills
 
 ### 👨‍💻 Developer
