@@ -2,8 +2,13 @@
 <h3 align="center">A passionate developer and creator from Lebanon</h3>
 
 <div align="center" >
-<!--   <img src="./fortnite-loading-screen.webp" alt="fortnite loading screen" width="90%" /> -->
+  <img src="./fortnite-loading-screen.webp" alt="fortnite loading screen" width="90%" />
 </div>
+
+<div align="center" >
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abedshaaban&" alt="abedshaaban" />
+</div>
+
 
 # Skills:
 
@@ -50,12 +55,3 @@
 ![googledrive](https://img.shields.io/badge/google%20drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![googledocs](https://img.shields.io/badge/google%20docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
 ![googlesheets](https://img.shields.io/badge/google%20sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abedshaaban&"
-    alt="abedshaaban" />
-</p>
