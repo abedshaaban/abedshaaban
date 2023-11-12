@@ -28,6 +28,10 @@
 ![supabase](https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![microsoftazure](https://img.shields.io/badge/microsoft%20azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![amazonaws](https://img.shields.io/badge/amazon%20aws%20s3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![prettier](https://img.shields.io/badge/prettier-181717?style=for-the-badge&logo=prettier&logoColor=white)
+![mui](https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![radixui](https://img.shields.io/badge/radixui-161618?style=for-the-badge&logo=radixui&logoColor=white)
+![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 <h3 align="left">Languages and Tools:</h3>
