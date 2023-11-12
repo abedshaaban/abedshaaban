@@ -10,9 +10,9 @@
 </div>
 
 
-# Skills:
+# 🎯 Skills
 
-### Developer:
+### 👨‍💻 Developer
 
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![nextdotjs](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -40,13 +40,14 @@
 ![mui](https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![radixui](https://img.shields.io/badge/radixui-161618?style=for-the-badge&logo=radixui&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![huggingface](https://img.shields.io/badge/hugging%20face-FCC624?style=for-the-badge)
 ![markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 
-### Software/ Programs:
+### 🛠️ Software/ Programs
 
 ![visualstudiocode](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
@@ -61,3 +62,9 @@
 ![googledrive](https://img.shields.io/badge/google%20drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![googledocs](https://img.shields.io/badge/google%20docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
 ![googlesheets](https://img.shields.io/badge/google%20sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+
+# 📅 Hobbies
+- Exploring new technologies
+- Playing videogames (where we dropping?)
+- Reinventing stuff
