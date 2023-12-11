@@ -34,6 +34,8 @@ Highly motivated software developer, who started coding at the age of 16, skille
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![nodedotjs](https://img.shields.io/badge/node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
