@@ -12,11 +12,11 @@
 
 # 👨‍💼 About me
 
-Highly motivated software developer, who started coding at the age of 16, skilled in front-end and back-end code. Established success record with an amazing project ([apeolr.com](https://www.apeolr.com)) that is used among students in Lebanese High Schools. Self-learner, motivated and consistent developer.
+Experienced software developer with a background in both front-end and back-end coding. Started coding at 16 and has a successful project ([apeolr.com](https://www.apeolr.com)) widely used by Lebanese High School students. Self-driven and consistent learner.
 
 * 🌍  I'm based in Lebanon 
-* 🧠  I'm love creating tools and platforms 
-* 🤝  I'm open to contribute to projects 
+* 🧠  I love creating tools and platforms 
+* 🤝  I'm open to contributing to projects 
 * 🔗  You can contact me on [in/abedshaaban](https://www.linkedin.com/in/abedshaaban) 
 
 
@@ -40,7 +40,7 @@ Highly motivated software developer, who started coding at the age of 16, skille
 ![Cloud](https://img.shields.io/badge/cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
-### 🛠️ Software/ Programs
+### 🛠️ Programs
 
 ![visualstudiocode](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
@@ -59,5 +59,5 @@ Highly motivated software developer, who started coding at the age of 16, skille
 
 # 📅 Hobbies
 - Exploring new technologies
-- Playing videogames (where we dropping?)
+- Playing video games (where we dropping?)
 - Reinventing stuff
