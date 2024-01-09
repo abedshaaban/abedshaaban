@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and creator from Lebanon</h3>
 
 <div align="center" >
-  <img src="./fortnite-loading-screen.webp" alt="fortnite loading screen" width="90%" />
+  <img src="./fortnite-loading-screen.webp" alt="fortnite loading screen" width="600px" />
 </div>
 
 <div align="center" >
