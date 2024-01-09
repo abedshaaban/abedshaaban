@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and creator from Lebanon</h3>
 
 <div align="center" >
-  <img src="./fortnite-loading-screen.webp" alt="fortnite loading screen" width="90%" />
+  <img src="./fortnite-loading-screen.webp" alt="fortnite loading screen" width="600px" />
 </div>
 
 <div align="center" >
@@ -12,11 +12,11 @@
 
 # 👨‍💼 About me
 
-Highly motivated software developer, who started coding at the age of 16, skilled in front-end and back-end code. Established success record with an amazing project ([apeolr.com](https://www.apeolr.com)) that is used among students in Lebanese High Schools. Self-learner, motivated and consistent developer.
+Experienced software developer with a background in both front-end and back-end coding. Started coding at 16 and has a successful project ([apeolr.com](https://www.apeolr.com)) widely used by Lebanese High School students. Self-driven and consistent learner.
 
 * 🌍  I'm based in Lebanon 
-* 🧠  I'm love creating tools and platforms 
-* 🤝  I'm open to contribute to projects 
+* 🧠  I love creating tools and platforms 
+* 🤝  I'm open to contributing to projects 
 * 🔗  You can contact me on [in/abedshaaban](https://www.linkedin.com/in/abedshaaban) 
 
 
@@ -24,42 +24,24 @@ Highly motivated software developer, who started coding at the age of 16, skille
 
 ### 👨‍💻 Developer
 
-![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![nextdotjs](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![docusaurus](https://img.shields.io/badge/docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![state maganger](https://img.shields.io/badge/state%20maganger-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![UI libraries](https://img.shields.io/badge/ui%20libraries-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![supabase](https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Data Bases](https://img.shields.io/badge/data%20base-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![microsoftazure](https://img.shields.io/badge/microsoft%20azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![amazonaws](https://img.shields.io/badge/amazon%20aws%20s3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![prettier](https://img.shields.io/badge/prettier-181717?style=for-the-badge&logo=prettier&logoColor=white)
-![shadcnui](https://img.shields.io/badge/shadcn%20ui-161618?style=for-the-badge&logoColor=white)
-![mui](https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![radixui](https://img.shields.io/badge/radixui-161618?style=for-the-badge&logo=radixui&logoColor=white)
-![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![huggingface](https://img.shields.io/badge/hugging%20face-FCC624?style=for-the-badge)
-![markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Cloud](https://img.shields.io/badge/cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![amazonaws](https://img.shields.io/badge/s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 
-### 🛠️ Software/ Programs
+### 🛠️ Programs
 
 ![visualstudiocode](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
@@ -78,5 +60,5 @@ Highly motivated software developer, who started coding at the age of 16, skille
 
 # 📅 Hobbies
 - Exploring new technologies
-- Playing videogames (where we dropping?)
+- Playing video games (where we dropping?)
 - Reinventing stuff
