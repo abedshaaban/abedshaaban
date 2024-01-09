@@ -38,6 +38,7 @@ Experienced software developer with a background in both front-end and back-end 
 ![cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Cloud](https://img.shields.io/badge/cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![amazonaws](https://img.shields.io/badge/s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 
 ### 🛠️ Programs
