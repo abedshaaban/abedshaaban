@@ -1,23 +1,25 @@
-# Hi, I'm Abed Al Ghani Shaaban
+# Hi, I'm Abed Al Ghani Shaaban 👋
 
-Full-stack developer from Lebanon building education platforms, production web apps, desktop tools, and experiments across AI, automation, and hardware.
+📍 **Lebanon** | 💻 **Full-stack developer** | 🚀 **Builder of Apelr, Probati, and developer tools**
+
+Full-stack developer building education platforms, production web apps, desktop tools, and experiments across AI, automation, and hardware.
 
 I started coding at 16 and like shipping things that real people can use, from student platforms to internal business tools, mobile-backed systems, and small developer utilities.
 
 ## Start Here
 
-- **[Apelr](https://apelr.com)** - education platform used by Lebanese high school students.
-- **[Probati](https://github.com/Al-Shaaban/probati-releases)** - desktop browser app with public macOS, Windows, and Linux releases.
-- **[GitMeDaddy](https://github.com/abedshaaban/gitmedaddy)** - Git wrapper for faster branch management.
-- **[Arduino Radar](https://github.com/abedshaaban/arduino-radar)** - ESP32 radar system with an ultrasonic sensor, servo motor, and WebSocket-powered web interface.
-- **[Barber Byte](https://github.com/abedshaaban/barber-byte)** - AI-generated haircut image concept for barbershops and clients.
+- 🎓 **[Apelr](https://apelr.com)** - education platform used by Lebanese high school students.
+- 🧪 **[Probati](https://github.com/Al-Shaaban/probati-releases)** - desktop browser app with public macOS, Windows, and Linux releases.
+- 🌿 **[GitMeDaddy](https://github.com/abedshaaban/gitmedaddy)** - Git wrapper for faster branch management.
+- 📡 **[Arduino Radar](https://github.com/abedshaaban/arduino-radar)** - ESP32 radar system with an ultrasonic sensor, servo motor, and WebSocket-powered web interface.
+- ✂️ **[Barber Byte](https://github.com/abedshaaban/barber-byte)** - AI-generated haircut image concept for barbershops and clients.
 
 ## Current Focus
 
-- Building full-stack products with TypeScript, Next.js, NestJS, Laravel, and SQL.
-- Exploring desktop software with Electron and automated release pipelines.
-- Working across dashboards, backoffices, APIs, mobile-connected products, and automation tools.
-- Turning practical workflows into small tools, prototypes, and experiments.
+- 🧱 Building full-stack products with TypeScript, Next.js, NestJS, Laravel, and SQL.
+- 🖥️ Exploring desktop software with Electron and automated release pipelines.
+- 🧭 Working across dashboards, backoffices, APIs, mobile-connected products, and automation tools.
+- ⚙️ Turning practical workflows into small tools, prototypes, and experiments.
 
 ## Professional Work
 
@@ -27,41 +29,41 @@ The pattern across that work: shipping features, fixing production edge cases, m
 
 ## Project Areas
 
-### Products & Platforms
+### 🎯 Products & Platforms
 
-- **[Apelr](https://apelr.com)** - student-focused education platform.
-- **[Book Swap](https://github.com/abedshaaban/Book-Swap)** - marketplace-style app for exchanging and selling books.
-- **[Hospital Management System](https://github.com/abedshaaban/hospital-management-system)** - healthcare management app experiment.
-- **[Survey Builder](https://github.com/abedshaaban/survey-builder)** - form and survey creation tool.
+- 🎓 **[Apelr](https://apelr.com)** - student-focused education platform.
+- 📚 **[Book Swap](https://github.com/abedshaaban/Book-Swap)** - marketplace-style app for exchanging and selling books.
+- 🏥 **[Hospital Management System](https://github.com/abedshaaban/hospital-management-system)** - healthcare management app experiment.
+- 📝 **[Survey Builder](https://github.com/abedshaaban/survey-builder)** - form and survey creation tool.
 
-### Developer Tools & Desktop Apps
+### 🛠️ Developer Tools & Desktop Apps
 
-- **[Probati](https://github.com/Al-Shaaban/probati-releases)** - Electron desktop browser app with `electron-updater` and GitHub release delivery.
-- **[GitMeDaddy](https://github.com/abedshaaban/gitmedaddy)** - TypeScript Git helper for branch workflows.
-- **[Next.js WorkOS x Next Intl](https://github.com/abedshaaban/nextjs-workos-x-next-intl)** - minimal integration of WorkOS AuthKit and Next Intl.
-- **[Cloudflare TanStack Start Deployment](https://github.com/abedshaaban/cloudflare-tanstack-start-deployment)** - deployment experiment for TanStack Start on Cloudflare.
-- **[Cloudflare TanStack Start i18n Paraglide](https://github.com/abedshaaban/cloudflare-tanstack-start-i18n-paraglide)** - internationalization experiment with TanStack Start and Paraglide.
-- **[Research Paper Scraper](https://github.com/abedshaaban/research-paper-scraper)** - Python scraper experiment for research workflows.
+- 🧪 **[Probati](https://github.com/Al-Shaaban/probati-releases)** - Electron desktop browser app with `electron-updater` and GitHub release delivery.
+- 🌿 **[GitMeDaddy](https://github.com/abedshaaban/gitmedaddy)** - TypeScript Git helper for branch workflows.
+- 🔐 **[Next.js WorkOS x Next Intl](https://github.com/abedshaaban/nextjs-workos-x-next-intl)** - minimal integration of WorkOS AuthKit and Next Intl.
+- ☁️ **[Cloudflare TanStack Start Deployment](https://github.com/abedshaaban/cloudflare-tanstack-start-deployment)** - deployment experiment for TanStack Start on Cloudflare.
+- 🌍 **[Cloudflare TanStack Start i18n Paraglide](https://github.com/abedshaaban/cloudflare-tanstack-start-i18n-paraglide)** - internationalization experiment with TanStack Start and Paraglide.
+- 🔎 **[Research Paper Scraper](https://github.com/abedshaaban/research-paper-scraper)** - Python scraper experiment for research workflows.
 
-### Experiments
+### 🧪 Experiments
 
-- **[Arduino Radar](https://github.com/abedshaaban/arduino-radar)** - real-time hardware and browser interface experiment.
-- **[Barber Byte](https://github.com/abedshaaban/barber-byte)** - AI image generation idea for haircut previews.
-- **[Drawing App](https://github.com/abedshaaban/drawing-app)** - browser-based drawing interface.
-- **[Memory Color](https://github.com/abedshaaban/memory-color)** - color memory and pattern game.
+- 📡 **[Arduino Radar](https://github.com/abedshaaban/arduino-radar)** - real-time hardware and browser interface experiment.
+- ✂️ **[Barber Byte](https://github.com/abedshaaban/barber-byte)** - AI image generation idea for haircut previews.
+- 🎨 **[Drawing App](https://github.com/abedshaaban/drawing-app)** - browser-based drawing interface.
+- 🧠 **[Memory Color](https://github.com/abedshaaban/memory-color)** - color memory and pattern game.
 
 ## Open Source Contributions
 
-- **[TanStack Devtools](https://github.com/TanStack/devtools)** - contributed to framework-agnostic TypeScript devtools.
-- **[WorkOS AuthKit Next.js](https://github.com/workos/authkit-nextjs)** - contributed around AuthKit and Next.js integration.
-- **[Convex Templates](https://github.com/get-convex/templates)** - contributed to TypeScript starter templates.
+- ⚡ **[TanStack Devtools](https://github.com/TanStack/devtools)** - contributed to framework-agnostic TypeScript devtools.
+- 🔐 **[WorkOS AuthKit Next.js](https://github.com/workos/authkit-nextjs)** - contributed around AuthKit and Next.js integration.
+- 🔺 **[Convex Templates](https://github.com/get-convex/templates)** - contributed to TypeScript starter templates.
 
 ## GitHub Snapshot
 
-- 50+ public repositories on my personal GitHub.
-- 100+ repositories visible across personal, organization, and collaborator work.
-- Public work spans TypeScript, JavaScript, Python, PHP, C++, HTML/CSS, Shell, and more.
-- Private/professional work adds Vue, Dart/Flutter, Java, Swift, Liquid/Shopify, HCL/Terraform, and production client systems.
+- 📦 50+ public repositories on my personal GitHub.
+- 🏗️ 100+ repositories visible across personal, organization, and collaborator work.
+- 🧬 Public work spans TypeScript, JavaScript, Python, PHP, C++, HTML/CSS, Shell, and more.
+- 🔒 Private/professional work adds Vue, Dart/Flutter, Java, Swift, Liquid/Shopify, HCL/Terraform, and production client systems.
 
 ## GitHub Activity
 
@@ -73,7 +75,7 @@ The pattern across that work: shipping features, fixing production edge cases, m
 
 ## Skills & Technologies
 
-### Languages
+### 🧑‍💻 Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -89,7 +91,7 @@ The pattern across that work: shipping features, fixing production edge cases, m
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend
+### 🎨 Frontend
 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
@@ -102,7 +104,7 @@ The pattern across that work: shipping features, fixing production edge cases, m
 ![Redux](https://img.shields.io/badge/state_management-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend, Desktop & AI
+### ⚙️ Backend, Desktop & AI
 
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -114,7 +116,7 @@ The pattern across that work: shipping features, fixing production edge cases, m
 ![OpenAI](https://img.shields.io/badge/ai_tools-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 
-### Data, Cloud & DevOps
+### ☁️ Data, Cloud & DevOps
 
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -127,7 +129,7 @@ The pattern across that work: shipping features, fixing production edge cases, m
 ![Terraform](https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Shopify](https://img.shields.io/badge/shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
-### Tooling & Testing
+### 🧰 Tooling & Testing
 
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
@@ -136,7 +138,7 @@ The pattern across that work: shipping features, fixing production edge cases, m
 ![ESLint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
-### Programs
+### 🛠️ Programs
 
 ![VS Code](https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
