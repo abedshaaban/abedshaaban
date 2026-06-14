@@ -56,9 +56,3 @@ Experienced software developer with a background in both front-end and back-end 
 ![googledrive](https://img.shields.io/badge/google%20drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![googledocs](https://img.shields.io/badge/google%20docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
 ![googlesheets](https://img.shields.io/badge/google%20sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-
-# 📅 Hobbies
-- Exploring new technologies
-- Playing video games (where we dropping?)
-- Reinventing stuff
