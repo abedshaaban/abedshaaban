@@ -19,13 +19,14 @@ I started coding at 16 and like shipping things that real people can use, from s
 - 🧱 Building full-stack products.
 - 🖥️ Exploring desktop software with Electron and automated release pipelines.
 - 🧭 Working across dashboards, backoffices, APIs, mobile-connected products, and automation tools.
+- 🤖 Experimenting with AI workflows, prompt engineering, and AI-assisted product development.
 - ⚙️ Turning practical workflows into small tools, prototypes, and experiments.
 
 ## Professional Work
 
 I work with **Poyesis** on production software across web, backend, mobile, and internal tooling. My GitHub history includes work across many private organization repositories, mostly TypeScript-based frontends/backends, backoffice dashboards, customer-facing platforms, mobile app backends, Shopify/custom commerce tools, and deployment/support utilities.
 
-The pattern across that work: shipping features, fixing production edge cases, maintaining API/frontend flows together, and moving changes through pull requests across active client projects.
+The pattern across that work: shipping features, fixing production edge cases, maintaining API/frontend flows together, using AI-assisted workflows where they help, and moving changes through pull requests across active client projects.
 
 ## Project Areas
 
@@ -63,7 +64,7 @@ The pattern across that work: shipping features, fixing production edge cases, m
 - 📦 50+ public repositories on my personal GitHub.
 - 🏗️ 100+ repositories visible across personal, organization, and collaborator work.
 - 🧬 Public work spans TypeScript, JavaScript, Python, PHP, C++, HTML/CSS, Shell, and more.
-- 🔒 Private/professional work adds Vue, Dart/Flutter, Java, Swift, Liquid/Shopify, HCL/Terraform, and production client systems.
+- 🔒 Private/professional work adds Vue, Dart/Flutter, Java, Swift, Liquid/Shopify, HCL/Terraform, AI-assisted workflows, and production client systems.
 
 ## GitHub Activity
 
@@ -114,6 +115,8 @@ The pattern across that work: shipping features, fixing production edge cases, m
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/ai_tools-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/prompt_engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
+![AI SDK](https://img.shields.io/badge/ai_sdk-111827?style=for-the-badge&logo=vercel&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### ☁️ Data, Cloud & DevOps
