@@ -9,14 +9,14 @@ I started coding at 16 and like shipping things that real people can use, from s
 ## Start Here
 
 - 🎓 **[Apelr](https://apelr.com)** - education platform used by Lebanese high school students.
-- 🧪 **[Probati](https://github.com/Al-Shaaban/probati-releases)** - desktop browser app with public macOS, Windows, and Linux releases.
-- 🌿 **[GitMeDaddy](https://github.com/abedshaaban/gitmedaddy)** - Git wrapper for faster branch management.
+- 🧪 **[Probati](https://github.com/Al-Shaaban/probati-releases)** - desktop browser QA app with public macOS, Windows, and Linux releases.
+- 🌿 **[GitMeDaddy](https://github.com/abedshaaban/gitmedaddy)** - Git wrapper for better branch management.
 - 📡 **[Arduino Radar](https://github.com/abedshaaban/arduino-radar)** - ESP32 radar system with an ultrasonic sensor, servo motor, and WebSocket-powered web interface.
 - ✂️ **[Barber Byte](https://github.com/abedshaaban/barber-byte)** - AI-generated haircut image concept for barbershops and clients.
 
 ## Current Focus
 
-- 🧱 Building full-stack products with TypeScript, Next.js, NestJS, Laravel, and SQL.
+- 🧱 Building full-stack products.
 - 🖥️ Exploring desktop software with Electron and automated release pipelines.
 - 🧭 Working across dashboards, backoffices, APIs, mobile-connected products, and automation tools.
 - ⚙️ Turning practical workflows into small tools, prototypes, and experiments.
@@ -38,7 +38,7 @@ The pattern across that work: shipping features, fixing production edge cases, m
 
 ### 🛠️ Developer Tools & Desktop Apps
 
-- 🧪 **[Probati](https://github.com/Al-Shaaban/probati-releases)** - Electron desktop browser app with `electron-updater` and GitHub release delivery.
+- 🧪 **[Probati](https://github.com/Al-Shaaban/probati-releases)** - Electron desktop QA browser app with `electron-updater` and GitHub release delivery.
 - 🌿 **[GitMeDaddy](https://github.com/abedshaaban/gitmedaddy)** - TypeScript Git helper for branch workflows.
 - 🔐 **[Next.js WorkOS x Next Intl](https://github.com/abedshaaban/nextjs-workos-x-next-intl)** - minimal integration of WorkOS AuthKit and Next Intl.
 - ☁️ **[Cloudflare TanStack Start Deployment](https://github.com/abedshaaban/cloudflare-tanstack-start-deployment)** - deployment experiment for TanStack Start on Cloudflare.
