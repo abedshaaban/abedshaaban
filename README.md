@@ -2,19 +2,52 @@
 
 📍 **Lebanon** | 💻 **Full-stack developer** | 🚀 **Builder of Apelr, Probati, and developer tools**
 
-Full-stack developer building education platforms, production web apps, desktop tools, and experiments across AI, automation, and hardware.
+I build education platforms, production web apps, desktop tools, and small automation systems that solve practical problems.
 
-I started coding at 16 and like shipping things that real people can use, from student platforms to internal business tools, mobile-backed systems, and small developer utilities.
+Started coding at 16. Still happiest when shipping things real people can use, from student platforms and internal business tools to AI-assisted workflows and developer utilities.
 
 ## Start Here
 
 - 🎓 **[Apelr](https://apelr.com)** - education platform used by Lebanese high school students.
 - 🧪 **[Probati](https://github.com/Al-Shaaban/probati-releases)** - desktop browser QA app with public macOS, Windows, and Linux releases.
-- 🌿 **[GitMeDaddy](https://github.com/abedshaaban/gitmedaddy)** - Git wrapper for better branch management.
-- 📡 **[Arduino Radar](https://github.com/abedshaaban/arduino-radar)** - ESP32 radar system with an ultrasonic sensor, servo motor, and WebSocket-powered web interface.
-- ✂️ **[Barber Byte](https://github.com/abedshaaban/barber-byte)** - AI-generated haircut image concept for barbershops and clients.
+- 🔊 **[Local TTS Gateway](https://github.com/abedshaaban/local-tts-gateway)** - local FastAPI gateway for offline TTS/STT with OpenAI and ElevenLabs-compatible APIs.
+- 📈 **[GSC Obsidian SEO Pipeline](https://github.com/abedshaaban/gsc-obsidian-seo-pipeline)** - exports Search Console data into Obsidian reports, datasets, and content ideas.
+- 🧑‍💼 **[Hiring Agent](https://github.com/abedshaaban/hiring-agent)** - AI resume evaluation project, fork extended with VMLX.
 
-## Current Focus
+## Current Work
+
+### Products & Platforms
+
+- 🎓 **[Apelr](https://apelr.com)** - student-focused education platform.
+- 🧪 **[Probati](https://github.com/Al-Shaaban/probati-releases)** - Electron desktop QA browser app with release delivery for macOS, Windows, and Linux.
+- ✂️ **[Barber Byte](https://github.com/abedshaaban/barber-byte)** - AI-generated haircut image concept for barbershops and clients.
+- 📚 **[Book Swap](https://github.com/abedshaaban/Book-Swap)** - marketplace-style app for exchanging and selling books.
+- 📝 **[Survey Builder](https://github.com/abedshaaban/survey-builder)** - form and survey creation tool.
+- 🏥 **[Hospital Management System](https://github.com/abedshaaban/hospital-management-system)** - healthcare management app experiment.
+
+### AI & Automation
+
+- 🔊 **[Local TTS Gateway](https://github.com/abedshaaban/local-tts-gateway)** - local text-to-speech and speech-to-text gateway for voice workflows.
+- 🧑‍💼 **[Hiring Agent](https://github.com/abedshaaban/hiring-agent)** - AI-assisted resume evaluation and scoring workflow.
+- 📈 **[GSC Obsidian SEO Pipeline](https://github.com/abedshaaban/gsc-obsidian-seo-pipeline)** - Google Search Console to Obsidian SEO pipeline.
+- 🔎 **[Research Paper Scraper](https://github.com/abedshaaban/research-paper-scraper)** - Python scraper experiment for research workflows.
+
+### Developer Tools & Web Experiments
+
+- ☁️ **[Cloudflare TanStack Start Deployment](https://github.com/abedshaaban/cloudflare-tanstack-start-deployment)** - deployment experiment for TanStack Start on Cloudflare.
+- 🌍 **[Cloudflare TanStack Start i18n Paraglide](https://github.com/abedshaaban/cloudflare-tanstack-start-i18n-paraglide)** - internationalization experiment with TanStack Start and Paraglide.
+- 🌿 **[GitMeDaddy](https://github.com/abedshaaban/gitmedaddy)** - TypeScript Git helper for branch workflows.
+- 🎨 **[Drawing App](https://github.com/abedshaaban/drawing-app)** - browser-based drawing interface.
+- 🧠 **[Memory Color](https://github.com/abedshaaban/memory-color)** - color memory and pattern game.
+
+### Hardware & Older Experiments
+
+- 📡 **[Arduino Radar](https://github.com/abedshaaban/arduino-radar)** - ESP32 radar system with an ultrasonic sensor, servo motor, and WebSocket-powered web interface.
+- 🖼️ **[MacBook Wallpaper Generator](https://github.com/abedshaaban/macbook-wallpaper-generator)** - wallpaper generation experiment.
+- 🛒 **[E-Shoes](https://github.com/abedshaaban/e-shoes)** - e-commerce app experiment with Firebase-backed flows.
+- 🧮 **[Gate Network Calculator](https://github.com/abedshaaban/Gate-Network-Calculator)** - Python desktop calculator for gate network logic.
+
+## What I'm Doing
 
 - 🧱 Building full-stack products.
 - 🖥️ Exploring desktop software with Electron and automated release pipelines.
@@ -22,48 +55,20 @@ I started coding at 16 and like shipping things that real people can use, from s
 - 🤖 Experimenting with AI workflows, prompt engineering, and AI-assisted product development.
 - ⚙️ Turning practical workflows into small tools, prototypes, and experiments.
 
-## Professional Work
-
-I work with **Poyesis** on production software across web, backend, mobile, and internal tooling. My GitHub history includes work across many private organization repositories, mostly TypeScript-based frontends/backends, backoffice dashboards, customer-facing platforms, mobile app backends, Shopify/custom commerce tools, and deployment/support utilities.
-
-The pattern across that work: shipping features, fixing production edge cases, maintaining API/frontend flows together, using AI-assisted workflows where they help, and moving changes through pull requests across active client projects.
-
-## Project Areas
-
-### 🎯 Products & Platforms
-
-- 🎓 **[Apelr](https://apelr.com)** - student-focused education platform.
-- 📚 **[Book Swap](https://github.com/abedshaaban/Book-Swap)** - marketplace-style app for exchanging and selling books.
-- 🏥 **[Hospital Management System](https://github.com/abedshaaban/hospital-management-system)** - healthcare management app experiment.
-- 📝 **[Survey Builder](https://github.com/abedshaaban/survey-builder)** - form and survey creation tool.
-
-### 🛠️ Developer Tools & Desktop Apps
-
-- 🧪 **[Probati](https://github.com/Al-Shaaban/probati-releases)** - Electron desktop QA browser app with `electron-updater` and GitHub release delivery.
-- 🌿 **[GitMeDaddy](https://github.com/abedshaaban/gitmedaddy)** - TypeScript Git helper for branch workflows.
-- 🔐 **[Next.js WorkOS x Next Intl](https://github.com/abedshaaban/nextjs-workos-x-next-intl)** - minimal integration of WorkOS AuthKit and Next Intl.
-- ☁️ **[Cloudflare TanStack Start Deployment](https://github.com/abedshaaban/cloudflare-tanstack-start-deployment)** - deployment experiment for TanStack Start on Cloudflare.
-- 🌍 **[Cloudflare TanStack Start i18n Paraglide](https://github.com/abedshaaban/cloudflare-tanstack-start-i18n-paraglide)** - internationalization experiment with TanStack Start and Paraglide.
-- 🔎 **[Research Paper Scraper](https://github.com/abedshaaban/research-paper-scraper)** - Python scraper experiment for research workflows.
-
-### 🤖 AI & Automation
-
-- 🔊 **[Local TTS Gateway](https://github.com/abedshaaban/local-tts-gateway)** - local text-to-speech gateway for experimenting with voice generation workflows.
-- 🧑‍💼 **[Hiring Agent](https://github.com/abedshaaban/hiring-agent)** - fork extended with VMLX for AI-assisted hiring workflows.
-- 📈 **[GSC Obsidian SEO Pipeline](https://github.com/abedshaaban/gsc-obsidian-seo-pipeline)** - Google Search Console and Obsidian pipeline for SEO research and publishing workflows.
-
-### 🧪 Experiments
-
-- 📡 **[Arduino Radar](https://github.com/abedshaaban/arduino-radar)** - real-time hardware and browser interface experiment.
-- ✂️ **[Barber Byte](https://github.com/abedshaaban/barber-byte)** - AI image generation idea for haircut previews.
-- 🎨 **[Drawing App](https://github.com/abedshaaban/drawing-app)** - browser-based drawing interface.
-- 🧠 **[Memory Color](https://github.com/abedshaaban/memory-color)** - color memory and pattern game.
-
 ## Open Source Contributions
 
 - ⚡ **[TanStack Devtools](https://github.com/TanStack/devtools)** - contributed to framework-agnostic TypeScript devtools.
 - 🔐 **[WorkOS AuthKit Next.js](https://github.com/workos/authkit-nextjs)** - contributed around AuthKit and Next.js integration.
+- 🔐 **[Next.js WorkOS x Next Intl](https://github.com/abedshaaban/nextjs-workos-x-next-intl)** - minimal WorkOS AuthKit and Next Intl integration.
 - 🔺 **[Convex Templates](https://github.com/get-convex/templates)** - contributed to TypeScript starter templates.
+
+## Professional Work
+
+I work with **Poyesis** on production software across web, backend, mobile, and internal tooling.
+
+My GitHub history includes work across many private organization repositories, mostly TypeScript-based frontends/backends, backoffice dashboards, customer-facing platforms, mobile app backends, Shopify/custom commerce tools, and deployment/support utilities.
+
+The pattern across that work: shipping features, fixing production edge cases, maintaining API/frontend flows together, using AI-assisted workflows where they help, and moving changes through pull requests across active client projects.
 
 ## GitHub Snapshot
 
@@ -78,7 +83,9 @@ The pattern across that work: shipping features, fixing production edge cases, m
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/abedshaaban) · [GitHub](https://github.com/abedshaaban) · [Apelr](https://apelr.com)
+[![LinkedIn](https://img.shields.io/badge/-Abed_Shaaban-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abedshaaban)
+[![GitHub](https://img.shields.io/badge/-abedshaaban-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abedshaaban)
+[![Apelr](https://img.shields.io/badge/-Apelr-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://apelr.com)
 
 ## Skills & Technologies
 
@@ -108,6 +115,8 @@ The pattern across that work: shipping features, fixing production edge cases, m
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/radix_ui-161618?style=for-the-badge&logo=radixui&logoColor=white)
 ![TanStack](https://img.shields.io/badge/tanstack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack Start](https://img.shields.io/badge/tanstack_start-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack DevTools](https://img.shields.io/badge/tanstack_devtools-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Redux](https://img.shields.io/badge/state_management-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
