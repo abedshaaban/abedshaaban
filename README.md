@@ -1,10 +1,10 @@
 # Hi, I'm Abed Al Ghani Shaaban 👋
 
-📍 **Lebanon** | 💻 **Full-stack developer** | 🚀 **Builder of Apelr, Probati, and developer tools**
+📍 **Lebanon** | 💻 **Founder-minded frontend engineer** | 🚀 **Forward deployed product engineer**
 
-I build education platforms, production web apps, desktop tools, and small automation systems that solve practical problems.
+I build product surfaces, internal tools, AI workflows, and production web apps close to real users and business problems.
 
-Started coding at 16. Still happiest when shipping things real people can use, from student platforms and internal business tools to AI-assisted workflows and developer utilities.
+Started coding at 16. I like the kind of engineering work startup teams need most: moving fast, owning messy product details, talking through tradeoffs, and shipping useful software end to end.
 
 ## Start Here
 
@@ -49,11 +49,11 @@ Started coding at 16. Still happiest when shipping things real people can use, f
 
 ## What I'm Doing
 
-- 🧱 Building full-stack products.
-- 🖥️ Exploring desktop software with Electron and automated release pipelines.
-- 🧭 Working across dashboards, backoffices, APIs, mobile-connected products, and automation tools.
+- 🧱 Building product-minded frontend and full-stack systems.
+- 🧭 Working close to customers, workflows, dashboards, backoffices, APIs, and operational tools.
 - 🤖 Experimenting with AI workflows, prompt engineering, and AI-assisted product development.
-- ⚙️ Turning practical workflows into small tools, prototypes, and experiments.
+- 🖥️ Exploring desktop software with Electron and automated release pipelines.
+- ⚙️ Turning practical workflow pain into small tools, prototypes, and production features.
 
 ## Open Source Contributions
 
@@ -68,7 +68,7 @@ I work with **Poyesis** on production software across web, backend, mobile, and 
 
 My GitHub history includes work across many private organization repositories, mostly TypeScript-based frontends/backends, backoffice dashboards, customer-facing platforms, mobile app backends, Shopify/custom commerce tools, and deployment/support utilities.
 
-The pattern across that work: shipping features, fixing production edge cases, maintaining API/frontend flows together, using AI-assisted workflows where they help, and moving changes through pull requests across active client projects.
+The pattern across that work: shipping features, fixing production edge cases, maintaining API/frontend flows together, understanding the operational context around the code, using AI-assisted workflows where they help, and moving changes through pull requests across active client projects.
 
 ## GitHub Snapshot
 
