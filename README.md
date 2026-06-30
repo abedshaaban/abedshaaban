@@ -46,6 +46,12 @@ The pattern across that work: shipping features, fixing production edge cases, m
 - 🌍 **[Cloudflare TanStack Start i18n Paraglide](https://github.com/abedshaaban/cloudflare-tanstack-start-i18n-paraglide)** - internationalization experiment with TanStack Start and Paraglide.
 - 🔎 **[Research Paper Scraper](https://github.com/abedshaaban/research-paper-scraper)** - Python scraper experiment for research workflows.
 
+### 🤖 AI & Automation
+
+- 🔊 **[Local TTS Gateway](https://github.com/abedshaaban/local-tts-gateway)** - local text-to-speech gateway for experimenting with voice generation workflows.
+- 🧑‍💼 **[Hiring Agent](https://github.com/abedshaaban/hiring-agent)** - fork extended with VMLX for AI-assisted hiring workflows.
+- 📈 **[GSC Obsidian SEO Pipeline](https://github.com/abedshaaban/gsc-obsidian-seo-pipeline)** - Google Search Console and Obsidian pipeline for SEO research and publishing workflows.
+
 ### 🧪 Experiments
 
 - 📡 **[Arduino Radar](https://github.com/abedshaaban/arduino-radar)** - real-time hardware and browser interface experiment.
