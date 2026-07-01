@@ -10,6 +10,7 @@ Started coding at 16. I like the kind of engineering work startup teams need mos
 
 - 🎓 **[Apelr](https://apelr.com)** - education platform used by Lebanese high school students.
 - 🧪 **[Probati](https://github.com/Al-Shaaban/probati-releases)** - desktop browser QA app with public macOS, Windows, and Linux releases.
+- 👻 **[Phantom Strategy Lab](https://github.com/abedshaaban/phantom-strategy-lab)** - local-first Phantom wallet dashboard for Solana portfolio exposure, risk flags, and Jupiter-enriched pricing.
 - 🔊 **[Local TTS Gateway](https://github.com/abedshaaban/local-tts-gateway)** - local FastAPI gateway for offline TTS/STT with OpenAI and ElevenLabs-compatible APIs.
 - 📈 **[GSC Obsidian SEO Pipeline](https://github.com/abedshaaban/gsc-obsidian-seo-pipeline)** - exports Search Console data into Obsidian reports, datasets, and content ideas.
 - 🧑‍💼 **[Hiring Agent](https://github.com/abedshaaban/hiring-agent)** - AI resume evaluation project, fork extended with VMLX.
@@ -20,6 +21,7 @@ Started coding at 16. I like the kind of engineering work startup teams need mos
 
 - 🎓 **[Apelr](https://apelr.com)** - student-focused education platform.
 - 🧪 **[Probati](https://github.com/Al-Shaaban/probati-releases)** - Electron desktop QA browser app with release delivery for macOS, Windows, and Linux.
+- 👻 **[Phantom Strategy Lab](https://github.com/abedshaaban/phantom-strategy-lab)** - read-only Phantom wallet dashboard for Solana balances, portfolio composition, risk guardrails, and Jupiter token data.
 - ✂️ **[Barber Byte](https://github.com/abedshaaban/barber-byte)** - AI-generated haircut image concept for barbershops and clients.
 - 📚 **[Book Swap](https://github.com/abedshaaban/Book-Swap)** - marketplace-style app for exchanging and selling books.
 - 📝 **[Survey Builder](https://github.com/abedshaaban/survey-builder)** - form and survey creation tool.
